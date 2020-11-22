@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpdateGameItems>
+    <UpdateGame>
+		<name>Fortnite Update</name>
+		<key_href>fortnite</key_href>
+		<desc>The last Fortnite update Epic Games released was the v12. 30 update last week.
+		 The update included a number of new files including upcoming skin leaks, challenges, and more.
+		  One of the major leaks from the last Fortnite update was the skin style for Deadpool
+		   that'll be available this week on Friday.</desc>
+	</UpdateGame>
+    <UpdateGame>
+		<name>Call of Duty Warzone</name>
+		<key_href>COD</key_href>
+		<desc>ACTIVISION has confirmed that a new Call of Duty Modern Warfare update is being released this week on
+		all platforms such as ps4, but it doesn't look like Duos will be coming to COD Warzone.
+		CALL OF DUTY MODERN WARFARE playlist changes are:
+		Replacing Plunder Trios with Blood Money Trios
+		Disabled helicopters in BR
+		Removing: GW Reinfected, Cranked 3v3 Gunfight, Ground War
+		Shoot the Ship becomes Shipment 24/7
+		Gun Game becomes Gun Game Reloaded
+		Adding Demolition
+		Adding Boots on the Ground War
+		</desc>
+	</UpdateGame>
+    <UpdateGame>
+		<name>FIFA 20</name>
+		<key_href>fifa</key_href>
+		<desc>FIFA 20 Update 13 available to download now on Xbox and PS4. The latest title update for EA SPORTS FIFA 20 is now live for gamers on Xbox and PS4. 
+		Here are the patch notes for the new update in full including changes to jockeying, analog stick outputs, skill moves and sprint sensitivity.</desc>
+	</UpdateGame>
+</UpdateGameItems>

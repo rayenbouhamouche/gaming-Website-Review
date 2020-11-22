@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <Quotes>
+  <Quote>
+    <quote> </quote>
+    <person>Rayen Bouhamouche</person>
+    <pub>LJMU</pub>
+    <source>Source Title</source>
+    <quote_href>quote1.part.html</quote_href>
+  </Quote>
+  
+  <Quote>
+    <quote> </quote>
+    <person>Rayen Bouhamouche</person>
+    <pub>LJMU</pub>
+    <source>Source Title</source>
+    <quote_href>quote2.part.html</quote_href>
+  </Quote>
+  </Quotes>

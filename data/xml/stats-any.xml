@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Statistics>
+  <Statistic>
+    <stat>Top Goalscorer</stat>
+    <value>18</value>
+    <holder>Luis Suarez</holder>
+    <stat_href>suarez</stat_href>  
+  </Statistic>
+  <Statistic>
+    <stat>Number of Hat-Tricks</stat>
+    <value>1</value>
+    <holder>Luis Suarez</holder>
+    <stat_href>suarez</stat_href>  
+  </Statistic>
+</Statistics>
