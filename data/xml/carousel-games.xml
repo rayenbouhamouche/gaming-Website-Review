@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Images>
+  <Image>
+    <img_href>fifa20.png</img_href>
+    <title>FIFA 20</title>
+    <lead>Game Information</lead>
+  </Image>
+  <Image>
+    <img_href>cod.jpg</img_href>
+    <title>Call of Duty Warzone</title>
+    <lead>Game Information</lead>
+  </Image>
+</Images>
